@@ -1,0 +1,11 @@
+Rota para página de Login.
+
+•	Login (Tabela: usuário)
+	o	Código Usuário
+	o	Login
+	o	Senha
+	o	Tipo usuário
+	o	Ativo
+
+
+Data fim: 26/07/2024
